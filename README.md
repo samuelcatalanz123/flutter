@@ -1,2 +1,2 @@
-# Samual Flutter Projecto
+# Samuel Flutter Projecto
 
