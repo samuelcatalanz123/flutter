@@ -13,7 +13,7 @@ class _CounterScreenState extends State<CounterScreen> {
   @override
   Widget build(BuildContext) {
     return Scaffold(
-      appBar: AppBar(title: const Text('conter Screen')),
+      appBar: AppBar(title: const Text('Counter Screen')),
 
       body: Center(
         child: Column(
@@ -48,6 +48,6 @@ class _CounterScreenState extends State<CounterScreen> {
         },
         child: const Icon(Icons.plus_one),
       ),
-    );
+    ); //Column
   }
 }
