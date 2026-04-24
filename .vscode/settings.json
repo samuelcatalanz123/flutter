@@ -1,0 +1,9 @@
+{
+  "commentTranslate.targetLanguage": "es",
+  "commentTranslate.hover.enabled": true,
+  "commentTranslate.hover.concise": false,
+  "commentTranslate.hover.string": true,
+  "commentTranslate.hover.variable": true,
+  "commentTranslate.multiLineMerge": true,
+  "commentTranslate.source": "Google--Cookie"
+}
