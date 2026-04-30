@@ -5,5 +5,6 @@
   "commentTranslate.hover.string": true,
   "commentTranslate.hover.variable": true,
   "commentTranslate.multiLineMerge": true,
-  "commentTranslate.source": "Google--Cookie"
+  "commentTranslate.source": "Google--Cookie",
+  "cmake.sourceDirectory": "/Users/mqr93ea/repos/sam/premero/linux"
 }
